@@ -1,0 +1,44 @@
+ <div class="col-sm-9 pt-5 ps-5">
+                                    <div class="">
+                                        <i class="bx bx-home fs-2 fw-bold auto-type"></i>
+                                        <span
+                                            class="fs-5 fw-bold text-secondary">Bhainsahiya,Dudhaura,Basti,272002</span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-9 ps-5 pt-3">
+                                    <div class="">
+                                        <i class="bx bx-phone fs-2 fw-bold auto-type"></i>
+                                        <span class="fs-5 fw-bold" style="color: rgb(128, 123, 123);"><a
+                                                href="tel:7318345059" class="text-decoration-none text-secondary">+91
+                                                7318345059</a></span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-9 ps-5 pt-3">
+                                    <div class="">
+                                        <i class="bx bx-envelope fs-2 fw-bold auto-type"></i>
+                                        <span class="fs-5 fw-bold" style="color: rgb(128, 123, 123);"><a
+                                                href="mailto:parjapatikanhiyalal339@gmail.com"
+                                                class="text-decoration-none text-secondary">parjapatikanhiyalal339@gmail.com<a></span>
+                                    </div>
+                                </div>
+
+
+
+
+
+                                <div class=" p-4 ">
+                                    <ul class="list-unstyled d-flex  ps-3">
+                                        <li class="icon"><a
+                                                href="https://www.facebook.com/profile.php?id=100054308252023"><i
+                                                    class='bx bxl-facebook-circle fs-2  p-2 '></i></a></li>
+                                        <l class="icon"><a href="#"> <a href="https://wa.me/7318345059"><i
+                                                        class='bx bxl-whatsapp fs-2 p-2'></i></a></a></l>
+                                        <li class="icon"><a
+                                                href="https://instagram.com/mr_.devil_bro?igshid=MzNlNGNkZWQ4Mg=="><i
+                                                    class='bx bxl-instagram fs-2 p-2'></i></a></li>
+                                        <li class="icon"><a href="tel:+919305314415"><i
+                                                    class='bx bxs-phone-call fs-2 p-2'></i></a></li>
+                                        <li class="icon"><a href="mailto:parjapatikanhaiyalal339@gmail.com"><i
+                                                    class='bx bxl-gmail fs-2 p-2'></i></a></li>
+                                    </ul>
+                                </div>
