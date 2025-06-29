@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 30px !important;
+    font-size: 28px !important;
     font-weight: bold;
 }
 
@@ -94,11 +94,11 @@ nav ul li a:hover {
 }
 
 .name-text {
-    font-size: 65px;
+    font-size: 40px !important;
 }
 
 .text-animate h2 {
-    font-size: 3rem !important;
+    font-size: 2rem !important;
     font-weight: bold;
 }
 
@@ -110,7 +110,6 @@ nav ul li a:hover {
 
 
 .icon {
-    /* background: red; */
     border-radius: 50%;
     margin: 5px;
     border: 5px solid #e6006d;
@@ -170,6 +169,10 @@ nav ul li a:hover {
     font-weight: bold;
 }
 
+.about-img
+{
+    filter: drop-shadow(0px 10px 5px rgba(0, 0, 0, 0.5));   
+}
 .text-color {
     color: rgb(164, 164, 164);
     font-size: 18px;
@@ -300,8 +303,6 @@ form input {
     -webkit-box-orient: vertical;
 }
 
-
-
 .outer
 {
     width: 170px;
@@ -393,4 +394,13 @@ circle
 }
 
 
+input::placeholder
+{
+    font-weight: bold;
+}
+
+textarea::placeholder
+{
+    font-weight: bold;
+}
 /* acersupport@in.aegisglobal.com */
